@@ -3,8 +3,8 @@
 const CACHE_NAME = 'v1_cache';
 const INITIAL_CACHED_RESOURCES = [
   '/',
-   '../index.html',
-    '../estilos/style.css', 
+   '/PWA/index.html',
+    '/PWA/estilos/style.css', 
     '../scripts/main.js','../manifest.json', 
     '../icons/icon-512x512.png', 
     '../icons/icon-192x192.png'
@@ -47,6 +47,7 @@ self.addEventListener('fetch', event => {
     }
   })());
 });
+
 
 
 
