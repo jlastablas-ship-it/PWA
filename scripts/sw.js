@@ -3,10 +3,10 @@
 const CACHE_NAME = 'v1_cache';
 const INITIAL_CACHED_RESOURCES = [
   '/',
-   '/index.html',
-    '/estilos/style.css', 
-    '/scripts/main.js',
-  '/manifest.json', 
+   '../index.html',
+    '../estilos/style.css', 
+    '../scripts/main.js',
+  '../manifest.json', 
    
   ];
 
@@ -47,6 +47,7 @@ self.addEventListener('fetch', event => {
     }
   })());
 });
+
 
 
 
