@@ -18,7 +18,7 @@
       "type": "image/png"
     },
        {
-      "src": "../icons/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+      "src": "/PWA/icons/Square44x44Logo.altform-lightunplated_targetsize-256.png",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "any "
@@ -27,6 +27,7 @@
   ],
   "display_override": ["window-controls-overlay"]
 }
+
 
 
 
