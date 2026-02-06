@@ -25,8 +25,25 @@
     }
    
   ],
-  "display_override": ["window-controls-overlay"]
+  "display_override": ["window-controls-overlay"],
+  "shortcuts": [
+    {
+      "name": "Ver Inventario",
+      "short_name": "Inventario",
+      "description": "Acceso directo a la lista de productos",
+      "url": "/inventario",
+      "icons": [{ "src": "/icons/inventory.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Configuración",
+      "short_name": "Ajustes",
+      "description": "Preferencias de la aplicación",
+      "url": "/settings",
+      "icons": [{ "src": "/icons/settings.png", "sizes": "192x192" }]
+    }
+  ]
 }
+
 
 
 
