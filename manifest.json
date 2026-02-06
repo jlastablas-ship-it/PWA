@@ -1,8 +1,8 @@
 {
   "name": "PWAtemplate",
   "short_name": "PWA",
-  "id": "index.html",
-  "start_url": "index.html",
+  "id": "/index.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -37,6 +37,7 @@
   ],
   "display_override": ["window-controls-overlay"]
 }
+
 
 
 
