@@ -3,11 +3,11 @@
 const CACHE_NAME = 'v1_cache';
 const INITIAL_CACHED_RESOURCES = [
   '/',
-   '/PWA/index.html',
-    '/PWA/estilos/style.css', 
-    '../scripts/main.js','../manifest.json', 
-    '../icons/icon-512x512.png', 
-    '../icons/icon-192x192.png'
+   '/index.html',
+    '/estilos/style.css', 
+    '/scripts/main.js',
+  '/manifest.json', 
+   
   ];
 
 self.addEventListener('install', event => {
@@ -47,6 +47,7 @@ self.addEventListener('fetch', event => {
     }
   })());
 });
+
 
 
 
