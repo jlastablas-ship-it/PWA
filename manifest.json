@@ -2,7 +2,7 @@
   "name": "PWAtemplate",
   "short_name": "PWA",
   "id": "/PWA/index.html",
-  "start_url": "https://jlastablas-ship-it.github.io/PWA/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -37,6 +37,7 @@
   ],
   "display_override": ["window-controls-overlay"]
 }
+
 
 
 
