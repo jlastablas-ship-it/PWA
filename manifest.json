@@ -13,7 +13,7 @@
       "type": "image/png"
     },
        {
-      "src": "../icons/Wide310x150Logo.scale-150.png",
+      "src": "/PWA/icons/Wide310x150Logo.scale-150.png",
       "sizes": "150x150",
       "type": "image/png"
     },
@@ -37,6 +37,7 @@
   ],
   "display_override": ["window-controls-overlay"]
 }
+
 
 
 
