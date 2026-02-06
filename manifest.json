@@ -1,24 +1,24 @@
 {
   "name": "PWAtemplate",
   "short_name": "PWA",
-  "id": "./index.html",
-  "start_url": "./index.html",
+  "id": "PWA/index.html",
+  "start_url": "PWA/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "./icons/Square44x44Logo.targetsize-44.png",
+      "src": "PWA/icons/Square44x44Logo.targetsize-44.png",
       "sizes": "44x44",
       "type": "image/png"
     },
        {
-      "src": "./icons/Wide310x150Logo.scale-150.png",
+      "src": "PWA/icons/Wide310x150Logo.scale-150.png",
       "sizes": "150x150",
       "type": "image/png"
     },
        {
-      "src": "./icons/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+      "src": "PWA/icons/Square44x44Logo.altform-lightunplated_targetsize-256.png",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "any "
@@ -37,5 +37,6 @@
   ],
   "display_override": ["window-controls-overlay"]
 }
+
 
 
