@@ -4,8 +4,8 @@
   "id": "/PWA/index.html",
   "start_url": "/PWA/index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1e293b !important",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
   "icons": [
     {
       "src": "/PWA/icons/Square44x44Logo.targetsize-44.png",
@@ -43,6 +43,7 @@
     }
   ]
 }
+
 
 
 
