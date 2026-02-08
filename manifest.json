@@ -5,7 +5,7 @@
   "start_url": "/PWA/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#1e293b !important",
   "icons": [
     {
       "src": "/PWA/icons/Square44x44Logo.targetsize-44.png",
@@ -43,6 +43,7 @@
     }
   ]
 }
+
 
 
 
